@@ -203,6 +203,11 @@ opacity: 0.5;
         height: 98.5%;
 
     }
+    
+    .attribution{
+        position: absolute;
+        bottom: -400px;
+    }
 
 }
 
